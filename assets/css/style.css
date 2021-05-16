@@ -1517,13 +1517,11 @@ tems Section style
   overflow: auto;
   margin: 1rem;
   background-color: white;
-  text-align: center;
+
   position: relative;
   top: 0;
-  width: 100%;
+  width: 1300px;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
 
 .modal_closeIcon {
@@ -1532,7 +1530,6 @@ tems Section style
   padding: 5px 30px 0px 0px;
 }
 .modal_info {
-  background-color: darkgrey;
   margin-right: auto;
   margin-left: auto;
   width: 100%;
@@ -1540,8 +1537,19 @@ tems Section style
   padding-left: 0.75rem;
 }
 
-.modal_title {
-  padding: 60px 0px 10px 0px;
+.modal_info_text {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+.modal_info_text_summary h3 {
+  font-weight: 700;
+}
+
+.modal_info_text_summary h5 {
+  margin-left: 20px;
+}
+.modal_info_text_summary_link {
+  margin-left: 20px;
 }
 
 .hidden {
