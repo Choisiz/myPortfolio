@@ -1493,7 +1493,7 @@ tems Section style
   font-size: 30px;
 }
 
-.modals {
+.modals_pcInsta {
   position: fixed;
   top: 0;
   left: 0;
@@ -1504,7 +1504,62 @@ tems Section style
   align-items: center;
 }
 
-.modals2 {
+.modals_netflex {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modals_appInsta {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modals_paintMini {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modals_kakao {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modals_dobee {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modals_weather {
   position: fixed;
   top: 0;
   left: 0;
