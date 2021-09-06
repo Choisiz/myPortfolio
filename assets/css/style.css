@@ -1493,6 +1493,17 @@ tems Section style
   font-size: 30px;
 }
 
+.modals_Blog {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .modals_pcInsta {
   position: fixed;
   top: 0;
